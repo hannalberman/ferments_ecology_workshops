@@ -1,0 +1,135 @@
+#SampleID	FoodID	Experiment	Type	Plant	Day	Dayn	Black	Green	Cabbage	Onion	Pepper	Tomato	Radish	Dandelion 	Other	nInputs	Sample	ph	notes
+brineP3	brine	Chow	liquid	brine	three	3	NA	NA	NoCabbage	NoOnion	NoPepper	NoTomato	NA	NA	brine	NA			
+Cd10P3	Cd10	Chow	liquid	Cabbage	ten	10	NA	NA	CabbageOnly	NoOnion	NoPepper	NoTomato	NA	NA	NA	1	Cd10	4.2	
+Cd3P3	Cd3	Chow	liquid	Cabbage	three	3	NA	NA	CabbageOnly	NoOnion	NoPepper	NoTomato	NA	NA	NA	1	Cd3	4.34	
+OCd10P3	OCd10	Chow	liquid	OnionCabbage	ten	10	NA	NA	Cabbage	Onion	NoPepper	NoTomato	NA	NA	NA	2	OCd10	4.6	
+OCd3P3	OCd3	Chow	liquid	OnionCabbage	three	3	NA	NA	Cabbage	Onion	NoPepper	NoTomato	NA	NA	NA	2	OCd3	4.17	
+Od10P3	Od10	Chow	liquid	Onion	ten	10	NA	NA	NoCabbage	OnionOnly	NoPepper	NoTomato	NA	NA	NA	1	Od10	4.33	
+Od3P3	Od3	Chow	liquid	Onion	three	3	NA	NA	NoCabbage	OnionOnly	NoPepper	NoTomato	NA	NA	NA	1	Od3	4.89	
+OP1d10P3	OP1d10	Chow	liquid	OnionPepper	ten	10	NA	NA	NoCabbage	Onion	Pepper	NoTomato	NA	NA	NA	2	OP1d10	3.5	
+OP1d3P3	OP1d3	Chow	liquid	OnionPepper	three	3	NA	NA	NoCabbage	Onion	Pepper	NoTomato	NA	NA	NA	2	OP1d3	3.9	
+OPC1d10P3	OPC1d10	Chow	liquid	OnionPepperCabbage	ten	10	NA	NA	Cabbage	Onion	Pepper	NoTomato	NA	NA	NA	3	OPC1d10	3.81	
+OPC1d3P3	OPC1d3	Chow	liquid	OnionPepperCabbage	three	3	NA	NA	Cabbage	Onion	Pepper	NoTomato	NA	NA	NA	3	OPC1d3	4.33	
+OPC2d10P3	OPC2d10	Chow	liquid	OnionPepperCabbage	ten	10	NA	NA	Cabbage	Onion	Pepper	NoTomato	NA	NA	NA	3	OPC2d10	3.77	
+OPC2d3P3	OPC2d3	Chow	liquid	OnionPepperCabbage	three	3	NA	NA	Cabbage	Onion	Pepper	NoTomato	NA	NA	NA	3	OPC2d3	3.98	
+PC1d10P3	PC1d10	Chow	liquid	PepperCabbage	ten	10	NA	NA	Cabbage	NoOnion	Pepper	NoTomato	NA	NA	NA	2	PC1d10	3.91	m
+PC1d3P3	PC1d3	Chow	liquid	PepperCabbage	three	3	NA	NA	Cabbage	NoOnion	Pepper	NoTomato	NA	NA	NA	2	PC1d3	4.02	
+PC2d10P3	PC2d10	Chow	liquid	PepperCabbage	ten	10	NA	NA	Cabbage	NoOnion	Pepper	NoTomato	NA	NA	NA	2	PC2d10	3.84	m
+PC2d3P3	PC2d3	Chow	liquid	PepperCabbage	three	3	NA	NA	Cabbage	NoOnion	Pepper	NoTomato	NA	NA	NA	2	PC2d3	3.9	
+Pd10P3	Pd10	Chow	liquid	Pepper	ten	10	NA	NA	NoCabbage	NoOnion	PepperOnly	NoTomato	NA	NA	NA	1	Pd10	3.74	m
+Pd3P3	Pd3	Chow	liquid	Pepper	three	3	NA	NA	NoCabbage	NoOnion	PepperOnly	NoTomato	NA	NA	NA	1	Pd3	3.89	
+TCd10P3	TCd10	Chow	liquid	TomatoCabbage	ten	10	NA	NA	Cabbage	NoOnion	NoPepper	Tomato	NA	NA	NA	2	TCd10	3.9	m
+TCd3P3	TCd3	Chow	liquid	TomatoCabbage	three	3	NA	NA	Cabbage	NoOnion	NoPepper	Tomato	NA	NA	NA	2	TCd3	4.04	
+Td10P3	Td10	Chow	liquid	Tomato	ten	10	NA	NA	NoCabbage	NoOnion	NoPepper	TomatoOnly	NA	NA	NA	1	Td10	4.07	m
+Td3P3	Td3	Chow	liquid	Tomato	three	3	NA	NA	NoCabbage	NoOnion	NoPepper	TomatoOnly	NA	NA	NA	1	Td3	4.04	
+TOCd10P3	TOCd10	Chow	liquid	TomatoOnionCabbage	ten	10	NA	NA	Cabbage	Onion	NoPepper	Tomato	NA	NA	NA	3	TOCd10	4.06	
+TOCd3P3	TOCd3	Chow	liquid	TomatoOnionCabbage	three	3	NA	NA	Cabbage	Onion	NoPepper	Tomato	NA	NA	NA	3	TOCd3	4.09	
+TOd10P3	TOd10	Chow	liquid	TomatoOnion	ten	10	NA	NA	NoCabbage	Onion	NoPepper	Tomato	NA	NA	NA	2	TOd10	3.9	
+TOd3P3	TOd3	Chow	liquid	TomatoOnion	three	3	NA	NA	NoCabbage	Onion	NoPepper	Tomato	NA	NA	NA	2	TOd3	4.23	
+TOPC1d10P3	TOPC1d10	Chow	liquid	TomatoOnionPepperCabbage	ten	10	NA	NA	Cabbage	Onion	Pepper	Tomato	NA	NA	NA	4	TOPC1d10	3.95	
+TOPC1d3P3	TOPC1d3	Chow	liquid	TomatoOnionPepperCabbage	three	3	NA	NA	Cabbage	Onion	Pepper	Tomato	NA	NA	NA	4	TOPC1d3	4.04	
+TOPC2d10P3	TOPC2d10	Chow	liquid	TomatoOnionPepperCabbage	ten	10	NA	NA	Cabbage	Onion	Pepper	Tomato	NA	NA	NA	4	TOPC2d10	4.14	m
+TOPC2d3P3	TOPC2d3	Chow	liquid	TomatoOnionPepperCabbage	three	3	NA	NA	Cabbage	Onion	Pepper	Tomato	NA	NA	NA	4	TOPC2d3	4.26	
+TOPC3d10P3	TOPC3d10	Chow	liquid	TomatoOnionPepperCabbage	ten	10	NA	NA	Cabbage	Onion	Pepper	Tomato	NA	NA	NA	4	TOPC3d10	3.85	
+TOPC3d3P3	TOPC3d3	Chow	liquid	TomatoOnionPepperCabbage	three	3	NA	NA	Cabbage	Onion	Pepper	Tomato	NA	NA	NA	4	TOPC3d3	3.98	
+TOPC4d10P3	TOPC4d10	Chow	liquid	TomatoOnionPepperCabbage	ten	10	NA	NA	Cabbage	Onion	Pepper	Tomato	NA	NA	NA	4	TOPC4d10	3.77	
+TOPC4d3P3	TOPC4d3	Chow	liquid	TomatoOnionPepperCabbage	three	3	NA	NA	Cabbage	Onion	Pepper	Tomato	NA	NA	NA	4	TOPC4d3	4.11	
+TOPC5d10P3	TOPC5d10	Chow	liquid	TomatoOnionPepperCabbage	ten	10	NA	NA	Cabbage	Onion	Pepper	Tomato	NA	NA	NA	4	TOPC5d10	3.74	
+TOPC5d3P3	TOPC5d3	Chow	liquid	TomatoOnionPepperCabbage	three	3	NA	NA	Cabbage	Onion	Pepper	Tomato	NA	NA	NA	4	TOPC5d3	4.11	
+TOPC6d10P3	TOPC6d10	Chow	liquid	TomatoOnionPepperCabbage	ten	10	NA	NA	Cabbage	Onion	Pepper	Tomato	NA	NA	NA	4	TOPC6d10	3.91	
+TOPC6d3P3	TOPC6d3	Chow	liquid	TomatoOnionPepperCabbage	three	3	NA	NA	Cabbage	Onion	Pepper	Tomato	NA	NA	NA	4	TOPC6d3	4.11	
+TOPd10P3	TOPd10	Chow	liquid	TomatoOnionPepper	ten	10	NA	NA	NoCabbage	Onion	Pepper	Tomato	NA	NA	NA	3	TOPd10	4.05	m
+TOPd3P3	TOPd3	Chow	liquid	TomatoOnionPepper	three	3	NA	NA	NoCabbage	Onion	Pepper	Tomato	NA	NA	NA	3	TOPd3	4	
+TPCd10P3	TPCd10	Chow	liquid	TomatoPepperCabbage	ten	10	NA	NA	Cabbage	NoOnion	Pepper	Tomato	NA	NA	NA	3	TPCd10	3.87	m
+TPCd3P3	TPCd3	Chow	liquid	TomatoPepperCabbage	three	3	NA	NA	Cabbage	NoOnion	Pepper	Tomato	NA	NA	NA	3	TPCd3	3.96	
+TPd10P3	TPd10	Chow	liquid	TomatoPepper	ten	10	NA	NA	NoCabbage	NoOnion	Pepper	Tomato	NA	NA	NA	2	TPd10	3.8	
+TPd3P3	TPd3	Chow	liquid	TomatoPepper	three	3	NA	NA	NoCabbage	NoOnion	Pepper	Tomato	NA	NA	NA	2	TPd3	3.91	
+KitControl2P3	KitControl2	control	control	control	control	NA	NA	NA	NoCabbage	NoOnion	NoPepper	NoTomato	NA	NA	control	NA			
+KC10d10P3	KC10d10	Kimchi	liquid	Cabbage	ten	10	NA	NA	Cabbage	NA	NA	NA	NoRadish	NA	NA	1			
+KC10d3P3	KC10d3	Kimchi	liquid	Cabbage	three	3	NA	NA	Cabbage	NA	NA	NA	NoRadish	NA	NA	1			
+KC11d10P3	KC11d10	Kimchi	liquid	Cabbage	ten	10	NA	NA	Cabbage	NA	NA	NA	NoRadish	NA	NA	1			
+KC11d3P3	KC11d3	Kimchi	liquid	Cabbage	three	3	NA	NA	Cabbage	NA	NA	NA	NoRadish	NA	NA	1			
+KC12d10P3	KC12d10	Kimchi	liquid	Cabbage	ten	10	NA	NA	Cabbage	NA	NA	NA	NoRadish	NA	NA	1			
+KC12d3P3	KC12d3	Kimchi	liquid	Cabbage	three	3	NA	NA	Cabbage	NA	NA	NA	NoRadish	NA	NA	1			
+KC1d10P3	KC1d10	Kimchi	liquid	Cabbage	ten	10	NA	NA	Cabbage	NA	NA	NA	NoRadish	NA	NA	1			
+KC1d3P3	KC1d3	Kimchi	liquid	Cabbage	three	3	NA	NA	Cabbage	NA	NA	NA	NoRadish	NA	NA	1			
+KC2d10P3	KC2d10	Kimchi	liquid	Cabbage	ten	10	NA	NA	Cabbage	NA	NA	NA	NoRadish	NA	NA	1			
+KC2d3P3	KC2d3	Kimchi	liquid	Cabbage	three	3	NA	NA	Cabbage	NA	NA	NA	NoRadish	NA	NA	1			
+KC3d10P3	KC3d10	Kimchi	liquid	Cabbage	ten	10	NA	NA	Cabbage	NA	NA	NA	NoRadish	NA	NA	1			
+KC3d3P3	KC3d3	Kimchi	liquid	Cabbage	three	3	NA	NA	Cabbage	NA	NA	NA	NoRadish	NA	NA	1			
+KC4d10P3	KC4d10	Kimchi	liquid	Cabbage	ten	10	NA	NA	Cabbage	NA	NA	NA	NoRadish	NA	NA	1			
+KC4d3P3	KC4d3	Kimchi	liquid	Cabbage	three	3	NA	NA	Cabbage	NA	NA	NA	NoRadish	NA	NA	1			
+KC5d10P3	KC5d10	Kimchi	liquid	Cabbage	ten	10	NA	NA	Cabbage	NA	NA	NA	NoRadish	NA	NA	1			
+KC5d3P3	KC5d3	Kimchi	liquid	Cabbage	three	3	NA	NA	Cabbage	NA	NA	NA	NoRadish	NA	NA	1			
+KC6d10P3	KC6d10	Kimchi	liquid	Cabbage	ten	10	NA	NA	Cabbage	NA	NA	NA	NoRadish	NA	NA	1			
+KC6d3P3	KC6d3	Kimchi	liquid	Cabbage	three	3	NA	NA	Cabbage	NA	NA	NA	NoRadish	NA	NA	1			
+KC7d10P3	KC7d10	Kimchi	liquid	Cabbage	ten	10	NA	NA	Cabbage	NA	NA	NA	NoRadish	NA	NA	1			
+KC7d3P3	KC7d3	Kimchi	liquid	Cabbage	three	3	NA	NA	Cabbage	NA	NA	NA	NoRadish	NA	NA	1			
+KC8d10P3	KC8d10	Kimchi	liquid	Cabbage	ten	10	NA	NA	Cabbage	NA	NA	NA	NoRadish	NA	NA	1			
+KC8d3P3	KC8d3	Kimchi	liquid	Cabbage	three	3	NA	NA	Cabbage	NA	NA	NA	NoRadish	NA	NA	1			
+KC9d10P3	KC9d10	Kimchi	liquid	Cabbage	ten	10	NA	NA	Cabbage	NA	NA	NA	NoRadish	NA	NA	1			
+KC9d3P3	KC9d3	Kimchi	liquid	Cabbage	three	3	NA	NA	Cabbage	NA	NA	NA	NoRadish	NA	NA	1			
+KR10d10P3	KR10d10	Kimchi	liquid	Radish	ten	10	NA	NA	NoCabbage	NA	NA	NA	Radish	NA	NA	1			
+KR10d3P3	KR10d3	Kimchi	liquid	Radish	ten	10	NA	NA	NoCabbage	NA	NA	NA	Radish	NA	NA	1			
+KR1d10P3	KR1d10	Kimchi	liquid	Radish	ten	10	NA	NA	NoCabbage	NA	NA	NA	Radish	NA	NA	1			
+KR1d3P3	KR1d3	Kimchi	liquid	Radish	three	3	NA	NA	NoCabbage	NA	NA	NA	Radish	NA	NA	1			
+KR2d10P3	KR2d10	Kimchi	liquid	Radish	ten	10	NA	NA	NoCabbage	NA	NA	NA	Radish	NA	NA	1			
+KR2d3P3	KR2d3	Kimchi	liquid	Radish	three	3	NA	NA	NoCabbage	NA	NA	NA	Radish	NA	NA	1			
+KR3d10P3	KR3d10	Kimchi	liquid	Radish	ten	10	NA	NA	NoCabbage	NA	NA	NA	Radish	NA	NA	1			
+KR3d3P3	KR3d3	Kimchi	liquid	Radish	three	3	NA	NA	NoCabbage	NA	NA	NA	Radish	NA	NA	1			
+KR4d10P3	KR4d10	Kimchi	liquid	Radish	ten	10	NA	NA	NoCabbage	NA	NA	NA	Radish	NA	NA	1			
+KR4d3P3	KR4d3	Kimchi	liquid	Radish	three	3	NA	NA	NoCabbage	NA	NA	NA	Radish	NA	NA	1			
+KR5d10P3	KR5d10	Kimchi	liquid	Radish	ten	10	NA	NA	NoCabbage	NA	NA	NA	Radish	NA	NA	1			
+KR5d3P3	KR5d3	Kimchi	liquid	Radish	three	3	NA	NA	NoCabbage	NA	NA	NA	Radish	NA	NA	1			
+KR6d10P3	KR6d10	Kimchi	liquid	Radish	ten	10	NA	NA	NoCabbage	NA	NA	NA	Radish	NA	NA	1			
+KR6d3P3	KR6d3	Kimchi	liquid	Radish	three	3	NA	NA	NoCabbage	NA	NA	NA	Radish	NA	NA	1			
+KR7d10P3	KR7d10	Kimchi	liquid	Radish	ten	10	NA	NA	NoCabbage	NA	NA	NA	Radish	NA	NA	1			
+KR7d3P3	KR7d3	Kimchi	liquid	Radish	three	3	NA	NA	NoCabbage	NA	NA	NA	Radish	NA	NA	1			
+KR8d10P3	KR8d10	Kimchi	liquid	Radish	ten	10	NA	NA	NoCabbage	NA	NA	NA	Radish	NA	NA	1			
+KR8d3P3	KR8d3	Kimchi	liquid	Radish	three	3	NA	NA	NoCabbage	NA	NA	NA	Radish	NA	NA	1			
+KR9d10P3	KR9d10	Kimchi	liquid	Radish	ten	10	NA	NA	NoCabbage	NA	NA	NA	Radish	NA	NA	1			
+KR9d3P3	KR9d3	Kimchi	liquid	Radish	three	3	NA	NA	NoCabbage	NA	NA	NA	Radish	NA	NA	1			
+Cab1P3	Cab1	Lab	liquid	Cabbage	three	3	NA	NA	Cabbage	NA	NA	NA	NA	NoDandelion	NA	1			
+Cab2P3	Cab2	Lab	liquid	Cabbage	three	3	NA	NA	Cabbage	NA	NA	NA	NA	NoDandelion	NA	1			
+Cab3P3	Cab3	Lab	liquid	Cabbage	three	3	NA	NA	Cabbage	NA	NA	NA	NA	NoDandelion	NA	1			
+Cab4P3	Cab4	Lab	liquid	Cabbage	three	3	NA	NA	Cabbage	NA	NA	NA	NA	NoDandelion	NA	1			
+Dan5P3	Dan5	Lab	liquid	Dandelion	three	3	NA	NA	NoCabbage	NA	NA	NA	NA	Dandelion	NA	1			
+Dan6P3	Dan6	Lab	liquid	Dandelion	three	3	NA	NA	NoCabbage	NA	NA	NA	NA	Dandelion	NA	1			
+Dan7P3	Dan7	Lab	liquid	Dandelion	three	3	NA	NA	NoCabbage	NA	NA	NA	NA	Dandelion	NA	1			
+B2d4P3	B2d4	Tea	liquid	black	four	4	black	NoGreen	NA	NA	NA	NA	NA	NA	NA	1			
+B2d8P3	B2d8	Tea	liquid	black	eight	8	black	NoGreen	NA	NA	NA	NA	NA	NA	NA	1			
+B3d4P3	B3d4	Tea	liquid	black	four	4	black	NoGreen	NA	NA	NA	NA	NA	NA	NA	1			
+B3d8P3	B3d8	Tea	liquid	black	eight	8	black	NoGreen	NA	NA	NA	NA	NA	NA	NA	1			
+B4d4P3	B4d4	Tea	liquid	black	four	4	black	NoGreen	NA	NA	NA	NA	NA	NA	NA	1			
+B4d8P3	B4d8	Tea	liquid	black	eight	8	black	NoGreen	NA	NA	NA	NA	NA	NA	NA	1			
+B5d4P3	B5d4	Tea	liquid	black	four	4	black	NoGreen	NA	NA	NA	NA	NA	NA	NA	1			
+B5d8P3	B5d8	Tea	liquid	black	eight	8	black	NoGreen	NA	NA	NA	NA	NA	NA	NA	1			
+B6d4P3	B6d4	Tea	liquid	black	four	4	black	NoGreen	NA	NA	NA	NA	NA	NA	NA	1			
+B6d8P3	B6d8	Tea	liquid	black	eight	8	black	NoGreen	NA	NA	NA	NA	NA	NA	NA	1			
+G2d4P3	G2d4	Tea	liquid	green	four	4	NoBlack	green	NA	NA	NA	NA	NA	NA	NA	1			
+G2d8P3	G2d8	Tea	liquid	green	eight	8	NoBlack	green	NA	NA	NA	NA	NA	NA	NA	1			
+G3d4P3	G3d4	Tea	liquid	green	four	4	NoBlack	green	NA	NA	NA	NA	NA	NA	NA	1			
+G3d8P3	G3d8	Tea	liquid	green	eight	8	NoBlack	green	NA	NA	NA	NA	NA	NA	NA	1			
+G4d4P3	G4d4	Tea	liquid	green	four	4	NoBlack	green	NA	NA	NA	NA	NA	NA	NA	1			
+G4d8P3	G4d8	Tea	liquid	green	eight	8	NoBlack	green	NA	NA	NA	NA	NA	NA	NA	1			
+G5d4P3	G5d4	Tea	liquid	green	four	4	NoBlack	green	NA	NA	NA	NA	NA	NA	NA	1			
+G5d8P3	G5d8	Tea	liquid	green	eight	8	NoBlack	green	NA	NA	NA	NA	NA	NA	NA	1			
+G6d4P3	G6d4	Tea	liquid	green	four	4	NoBlack	green	NA	NA	NA	NA	NA	NA	NA	1			
+G6d8P3	G6d8	Tea	liquid	green	eight	8	NoBlack	green	NA	NA	NA	NA	NA	NA	NA	1			
+GB2d4P3	GB2d4	Tea	liquid	greenblack	four	4	Black	green	NA	NA	NA	NA	NA	NA	NA	2			
+GB2d8P3	GB2d8	Tea	liquid	greenblack	eight	8	Black	green	NA	NA	NA	NA	NA	NA	NA	2			
+GB3d4P3	GB3d4	Tea	liquid	greenblack	four	4	Black	green	NA	NA	NA	NA	NA	NA	NA	2			
+GB3d8P3	GB3d8	Tea	liquid	greenblack	eight	8	Black	green	NA	NA	NA	NA	NA	NA	NA	2			
+GB4d4P3	GB4d4	Tea	liquid	greenblack	four	4	Black	green	NA	NA	NA	NA	NA	NA	NA	2			
+GB4d8P3	GB4d8	Tea	liquid	greenblack	eight	8	Black	green	NA	NA	NA	NA	NA	NA	NA	2			
+GB5d4P3	GB5d4	Tea	liquid	greenblack	four	4	Black	green	NA	NA	NA	NA	NA	NA	NA	2			
+GB5d8P3	GB5d8	Tea	liquid	greenblack	eight	8	Black	green	NA	NA	NA	NA	NA	NA	NA	2			
+GB6d4P3	GB6d4	Tea	liquid	greenblack	four	4	Black	green	NA	NA	NA	NA	NA	NA	NA	2			
+GB6d8P3	GB6d8	Tea	liquid	greenblack	eight	8	Black	green	NA	NA	NA	NA	NA	NA	NA	2			
+GB7d4P3	GB7d4	Tea	liquid	greenblack	four	4	Black	green	NA	NA	NA	NA	NA	NA	NA	2			
+GB7d8P3	GB7d8	Tea	liquid	greenblack	eight	8	Black	green	NA	NA	NA	NA	NA	NA	NA	2			
+SCOBYLauraP3	SCOBYLaura	Tea	solid	scoby	na	NA	NA	NA	NA	NA	NA	NA	NA	NA	scoby	NA			
+SCOBYPeakP3	SCOBYPeak	Tea	solid	scoby	na	NA	NA	NA	NA	NA	NA	NA	NA	NA	scoby	NA			
+starterD4P3	starterD4	Tea	liquid	starter	four	4	NA	NA	NA	NA	NA	NA	NA	NA	starter	NA			
+starterD8P3	starterD8	Tea	liquid	starter	eight	8	NA	NA	NA	NA	NA	NA	NA	NA	starter	NA			
+StarterLauraP3	StarterLaura	Tea	liquid	starter	na	NA	NA	NA	NA	NA	NA	NA	NA	NA	starter				
