@@ -1,4 +1,4 @@
-# ferments_ecology_workshops
+# Fermented Foods Workshops and Microbial Ecolgy
 Cooking-Class Style Fermentation as a Context for Co-created Science and Engagement
 
 ## Metadata files
