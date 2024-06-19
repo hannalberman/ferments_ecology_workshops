@@ -352,25 +352,25 @@ map2(FMR, names(FMR), ~plot(.x, ci.type="poly", col="blue",  lwd=2, ci.lty=0, ci
 
 ## Rarefaction curve
 
-```{r}
-#takes a while, only run when needed
-map2(asvMatrices, names(asvMatrices), ~vegan::rarecurve(.x, step = 20, sample = raremax, col = "blue", cex = 0.6, xlim=c(0,4000))+title(main=.y))
+```{r, message=FALSE, warning=FALSE}
+raremax <- map(asvMatrices, ~min(rowSums(.x))) 
 
-vegan::rarecurve(asvMatrices$Chow, step = 20, sample = raremax, ylab = "ASVs", col = "blue", cex = 0.6, xlim=c(0,4000))
-title(main="Chow")
+vegan::rarecurve(asvMatrices$`Chow chow`, step = 20, sample = raremax$`Chow chow`, ylab = "ASVs", col = "blue", cex = 0.6, xlim=c(0,4000))
+title(main="Chow Chow")
 
-vegan::rarecurve(asvMatrices$Kimchi, step = 20, sample = raremax, ylab = "ASVs", label = FALSE, col = "blue", cex = 0.6, xlim=c(0,4000))
+vegan::rarecurve(asvMatrices$Kimchi, step = 20, sample = raremax$Kimchi, ylab = "ASVs", label = FALSE, col = "blue", cex = 0.6, xlim=c(0,4000))
 title(main="Kimchi")
 
-vegan::rarecurve(asvMatrices$Kombucha, step = 20, sample = raremax, ylab = "ASVs", col = "blue", cex = 0.6, xlim=c(0,4000))
+vegan::rarecurve(asvMatrices$Kombucha, step = 20, sample = raremax$Kombucha, ylab = "ASVs", col = "blue", cex = 0.6, xlim=c(0,4000))
 title(main="Kombucha")
 
-vegan::rarecurve(asvMatrices$`Kombucha (Fungi)`, step = 20, sample = raremax, ylab = "ASVs", col = "blue", cex = 0.6, xlim=c(0,4000))
+vegan::rarecurve(asvMatrices$`Kombucha (fungi)`, step = 20, sample = raremax$`Kombucha (fungi)`, ylab = "ASVs", col = "blue", cex = 0.6, xlim=c(0,4000))
 title(main="Kombucha (fungi)")
 ```
 
 ## ASVs before rarefying  
-```{r, message=FALSE, warning=FALSE, echo=FALSE}
+```{r, message=FALSE, warning=FALSE}
+S <- map(asvMatrices, specnumber) # observed number of ASVs per sample
 S %>%
   map(~as_tibble(.x, rownames = "SampleID")) %>%
   purrr::reduce(full_join) %>%
