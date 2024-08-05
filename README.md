@@ -19,5 +19,5 @@ Cooking-Class Style Fermentation as a Context for Co-created Science and Engagem
 ## R code
 `fermented_foods_assign_taxonomy.R`: assigning taxonomy in DADA2  
 `fermented_foods_analysis.Rmd`: Statistical analyses and figures  
-
+`fermented_foods_analysis.html`: Knit R markdown of statistical analysis and figures
 
